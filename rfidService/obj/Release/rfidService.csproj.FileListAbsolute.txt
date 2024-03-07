@@ -1,0 +1,27 @@
+C:\Users\epulido\Google Drive\Vault\Codigo\Visual Studio 2008\Projects\rfid_service\rfidService\rfidService\bin\Release\rfidService.exe.config
+C:\Users\epulido\Google Drive\Vault\Codigo\Visual Studio 2008\Projects\rfid_service\rfidService\rfidService\bin\Release\rfidService.exe
+C:\Users\epulido\Google Drive\Vault\Codigo\Visual Studio 2008\Projects\rfid_service\rfidService\rfidService\bin\Release\rfidService.pdb
+C:\Users\epulido\Google Drive\Vault\Codigo\Visual Studio 2008\Projects\rfid_service\rfidService\rfidService\bin\Release\Intermec.DataCollection.RFID.BasicBRI.dll
+C:\Users\epulido\Google Drive\Vault\Codigo\Visual Studio 2008\Projects\rfid_service\rfidService\rfidService\obj\Release\rfidService.exe
+C:\Users\epulido\Google Drive\Vault\Codigo\Visual Studio 2008\Projects\rfid_service\rfidService\rfidService\obj\Release\rfidService.pdb
+F:\googleDrive\Vault\Codigo\Visual Studio 2008\Projects\rfid_service\rfidService\rfidService\bin\Release\rfidService.exe.config
+F:\googleDrive\Vault\Codigo\Visual Studio 2008\Projects\rfid_service\rfidService\rfidService\obj\Release\rfidService.exe
+F:\googleDrive\Vault\Codigo\Visual Studio 2008\Projects\rfid_service\rfidService\rfidService\obj\Release\rfidService.pdb
+F:\googleDrive\Vault\Codigo\Visual Studio 2008\Projects\rfid_service\rfidService\rfidService\bin\Release\rfidService.exe
+F:\googleDrive\Vault\Codigo\Visual Studio 2008\Projects\rfid_service\rfidService\rfidService\bin\Release\rfidService.pdb
+F:\googleDrive\Vault\Codigo\Visual Studio 2008\Projects\rfid_service\rfidService\rfidService\bin\Release\Intermec.DataCollection.RFID.BasicBRI.dll
+F:\googleDrive\Vault\Codigo\Visual Studio 2008\Projects\rfid_service\rfidService\rfidService\obj\Release\rfidService.csprojResolveAssemblyReference.cache
+E:\GoogleDrive\Vault\Codigo\Visual Studio 2008\Projects\rfid_service\rfidService\rfidService\bin\Release\rfidService.exe.config
+E:\GoogleDrive\Vault\Codigo\Visual Studio 2008\Projects\rfid_service\rfidService\rfidService\bin\Release\rfidService.exe
+E:\GoogleDrive\Vault\Codigo\Visual Studio 2008\Projects\rfid_service\rfidService\rfidService\bin\Release\rfidService.pdb
+E:\GoogleDrive\Vault\Codigo\Visual Studio 2008\Projects\rfid_service\rfidService\rfidService\bin\Release\Intermec.DataCollection.RFID.BasicBRI.dll
+E:\GoogleDrive\Vault\Codigo\Visual Studio 2008\Projects\rfid_service\rfidService\rfidService\obj\Release\rfidService.csprojResolveAssemblyReference.cache
+E:\GoogleDrive\Vault\Codigo\Visual Studio 2008\Projects\rfid_service\rfidService\rfidService\obj\Release\rfidService.exe
+E:\GoogleDrive\Vault\Codigo\Visual Studio 2008\Projects\rfid_service\rfidService\rfidService\obj\Release\rfidService.pdb
+G:\Mi unidad\Vault\Codigo\Visual Studio 2008\Projects\rfid_service\rfidService\rfidService\bin\Release\rfidService.exe.config
+G:\Mi unidad\Vault\Codigo\Visual Studio 2008\Projects\rfid_service\rfidService\rfidService\bin\Release\rfidService.exe
+G:\Mi unidad\Vault\Codigo\Visual Studio 2008\Projects\rfid_service\rfidService\rfidService\bin\Release\rfidService.pdb
+G:\Mi unidad\Vault\Codigo\Visual Studio 2008\Projects\rfid_service\rfidService\rfidService\bin\Release\Intermec.DataCollection.RFID.BasicBRI.dll
+G:\Mi unidad\Vault\Codigo\Visual Studio 2008\Projects\rfid_service\rfidService\rfidService\obj\Release\rfidService.exe
+G:\Mi unidad\Vault\Codigo\Visual Studio 2008\Projects\rfid_service\rfidService\rfidService\obj\Release\rfidService.pdb
+G:\Mi unidad\Vault\Codigo\Visual Studio 2008\Projects\rfid_service\rfidService\rfidService\obj\Release\rfidService.csprojResolveAssemblyReference.cache

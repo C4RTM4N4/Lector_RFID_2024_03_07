@@ -1,0 +1,7 @@
+G:\Mi unidad\Vault\Codigo\Visual Studio 2008\Projects\rfid_service\rfidService\rfidService\bin\Debug\rfidService.exe.config
+G:\Mi unidad\Vault\Codigo\Visual Studio 2008\Projects\rfid_service\rfidService\rfidService\bin\Debug\rfidService.exe
+G:\Mi unidad\Vault\Codigo\Visual Studio 2008\Projects\rfid_service\rfidService\rfidService\bin\Debug\rfidService.pdb
+G:\Mi unidad\Vault\Codigo\Visual Studio 2008\Projects\rfid_service\rfidService\rfidService\bin\Debug\Intermec.DataCollection.RFID.BasicBRI.dll
+G:\Mi unidad\Vault\Codigo\Visual Studio 2008\Projects\rfid_service\rfidService\rfidService\obj\Debug\rfidService.exe
+G:\Mi unidad\Vault\Codigo\Visual Studio 2008\Projects\rfid_service\rfidService\rfidService\obj\Debug\rfidService.pdb
+G:\Mi unidad\Vault\Codigo\Visual Studio 2008\Projects\rfid_service\rfidService\rfidService\obj\Debug\rfidService.csprojResolveAssemblyReference.cache

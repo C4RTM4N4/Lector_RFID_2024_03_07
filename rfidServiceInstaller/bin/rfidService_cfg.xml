@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- RFID reader Service configuration file V1.0-->
+<configuration>
+  <!-- IP address of the rfid reader -->
+  <IPaddress>192.168.106.93</IPaddress>
+  <!-- RFID connection port -->
+  <port>2189</port>
+  <!-- RFID commands Response Timeout (ms) -->
+  <responseTimeout>10000</responseTimeout>
+  <!-- Folder to check for new csv files -->
+  <folder>C:\</folder>
+  <!-- Delete files after upload  true/false-->
+  <delete>false</delete>
+  <!-- url of the Rest web service http:// -->
+  <url>http://</url>
+  <!-- user name-->
+  <user></user>
+  <!-- password-->
+  <password>B069BAE8B5FD16</password>
+  <statusUrl>http://</statusUrl>
+  <!-- time between status checks (minutes)-->
+  <heartbeat>1</heartbeat>
+  <!-- tag Code prefix-->
+  <tagprefix></tagprefix>
+  <measuredPath>c:\</measuredPath>
+  <!-- Delay in seconds for the range between Arrival time and departure time-->
+  <rfidTimeRangeDelay>5</rfidTimeRangeDelay>
+  <!--fleet axle number information -->
+  <fleetAxles>
+    <fleetPrefix>0003</fleetPrefix>
+    <axleNumber>6</axleNumber>
+  </fleetAxles>
+  <fleetAxles>
+    <fleetPrefix>0004</fleetPrefix>
+    <axleNumber>8</axleNumber>
+  </fleetAxles>
+    <fleetAxles>
+    <fleetPrefix>0005</fleetPrefix>
+    <axleNumber>8</axleNumber>
+  </fleetAxles>
+    <fleetAxles>
+    <fleetPrefix>0006</fleetPrefix>
+    <axleNumber>10</axleNumber>
+  </fleetAxles>
+</configuration>
+
